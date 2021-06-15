@@ -1,0 +1,6 @@
+Flask
+Werkzeugn
+numpy
+cv2
+PIL
+sys
